@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide covers how to support multi-language (polyglot) projects and monorepo architectures in an agentic platform like Manus. This includes frontend + backend combinations, microservices in different languages, and unified build/deploy pipelines.
+This guide covers how to support multi-language (polyglot) projects and monorepo architectures in an agentic platform like SwissBrain. This includes frontend + backend combinations, microservices in different languages, and unified build/deploy pipelines.
 
 ---
 
