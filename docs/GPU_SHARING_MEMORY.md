@@ -2,7 +2,7 @@
 
 ## Overview
 
-GPU sharing across multiple users is one of the most critical infrastructure challenges in building a platform like Manus. This guide covers GPU scheduling strategies, memory fragmentation solutions, isolation mechanisms, and complete implementation details for managing thousands of concurrent users on a limited number of GPUs.
+GPU sharing across multiple users is one of the most critical infrastructure challenges in building a platform like SwissBrain. This guide covers GPU scheduling strategies, memory fragmentation solutions, isolation mechanisms, and complete implementation details for managing thousands of concurrent users on a limited number of GPUs.
 
 ## Architecture Overview
 
