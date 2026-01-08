@@ -2,7 +2,7 @@
 
 ## Overview
 
-Network isolation is one of the most critical security components in a multi-tenant platform like Manus. This guide covers multiple layers of network isolation from container networking to kernel-level security, ensuring complete separation of network traffic between users while maintaining platform connectivity.
+Network isolation is one of the most critical security components in a multi-tenant platform like SwissBrain. This guide covers multiple layers of network isolation from container networking to kernel-level security, ensuring complete separation of network traffic between users while maintaining platform connectivity.
 
 ## Architecture Overview
 
