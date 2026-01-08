@@ -2,7 +2,7 @@
 
 ## Overview
 
-Cold start latency is the time it takes to resume a hibernated sandbox from disk to a fully operational state. For a platform like Manus serving thousands of users, this is critical:
+Cold start latency is the time it takes to resume a hibernated sandbox from disk to a fully operational state. For a platform like SwissBrain serving thousands of users, this is critical:
 
 - **Poor cold start** (10-30s): Users perceive lag, poor experience
 - **Good cold start** (2-5s): Acceptable for most workloads
