@@ -2,7 +2,7 @@
 
 ## Overview
 
-Managing GPU driver compatibility across diverse customer hardware is one of the most complex infrastructure challenges in building a platform like Manus. This guide covers the complete strategy for detecting, managing, and optimizing GPU support across NVIDIA, AMD, and Intel GPUs with different driver versions and hardware configurations.
+Managing GPU driver compatibility across diverse customer hardware is one of the most complex infrastructure challenges in building a platform like SwissBrain. This guide covers the complete strategy for detecting, managing, and optimizing GPU support across NVIDIA, AMD, and Intel GPUs with different driver versions and hardware configurations.
 
 ## Architecture Overview
 
