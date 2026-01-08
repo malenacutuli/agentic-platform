@@ -39,15 +39,13 @@
     "uuid": "^9.0.1",
     "fs-extra": "^11.2.0",
     "chokidar": "^3.5.3",
-    "ngrok": "^5.0.5",
+    "ngrok": "^4.3.3",
     "js-tiktoken": "^1.0.12",
     "axios": "^1.6.5",
-    "winston": "^3.11.0",
     "pino": "^8.17.2",
     "redis": "^4.6.12",
     "postgres": "^3.4.3",
-    "drizzle-orm": "^0.44.5",
-    "stripe": "^14.7.0"
+    "drizzle-orm": "^0.44.5"
   },
   "devDependencies": {
     "@types/express": "^4.17.21",
