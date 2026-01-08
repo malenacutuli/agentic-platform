@@ -1,0 +1,60 @@
+# Dependencies
+node_modules/
+pnpm-lock.yaml
+npm-lock.json
+yarn.lock
+
+# Build output
+dist/
+build/
+.next/
+out/
+
+# Environment
+.env
+.env.local
+.env.*.local
+.env.production.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Logs
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime
+.turbo/
+.cache/
+tmp/
+temp/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Testing
+coverage/
+.nyc_output/
+
+# Docker
+.dockerignore
+docker-compose.override.yml
+
+# Kubernetes
+k8s/secrets.yaml
+k8s/configmap.yaml
+
+# Misc
+*.pem
+*.key
+*.cert
