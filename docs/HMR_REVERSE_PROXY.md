@@ -2,7 +2,7 @@
 
 ## Overview
 
-This guide explains how Hot Module Replacement (HMR) works through reverse proxy tunnels in platforms like Manus.im. This is a complex engineering challenge involving WebSocket proxying, latency optimization, and connection stability across sandbox hibernation/resume cycles.
+This guide explains how Hot Module Replacement (HMR) works through reverse proxy tunnels in platforms like SwissBrain. This is a complex engineering challenge involving WebSocket proxying, latency optimization, and connection stability across sandbox hibernation/resume cycles.
 
 ---
 
