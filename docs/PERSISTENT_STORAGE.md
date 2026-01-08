@@ -2,7 +2,7 @@
 
 ## Overview
 
-Manus handles persistent file storage through a **multi-layered architecture** that ensures data survives sandbox hibernation, container restarts, and infrastructure failures. This is one of the most complex aspects of building a platform like Manus.
+SwissBrain handles persistent file storage through a **multi-layered architecture** that ensures data survives sandbox hibernation, container restarts, and infrastructure failures. This is one of the most complex aspects of building a platform like SwissBrain.
 
 ## Architecture Layers
 
