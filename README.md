@@ -1,4 +1,4 @@
-# Agentic Platform
+# Swiss Brain Agentic Platform
 
 A production-grade agentic platform with multi-LLM support, project scaffolding, containerized development environments, and intelligent request routing.
 
